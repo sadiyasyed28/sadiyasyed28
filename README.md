@@ -112,21 +112,6 @@ I'm an AI & Machine Learning undergraduate passionate about building software th
 
 </p>
 
----
-
-## 📌 Pinned Repositories
-
-⭐ AI Healthcare Chatbot
-
-⭐ Time Capsule
-
-⭐ SmartWorld
-
-⭐ AI Agents
-
-⭐ Python DSA
-
-⭐ Your Next AI Project
 
 ---
 
