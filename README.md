@@ -192,3 +192,35 @@ Here are some ideas to get you started:
     />
   </picture>
 </p>
+<div align="center">
+
+# SADIEE
+
+### building things that think.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=34&duration=3200&pause=1100&color=C8B6FF&center=true&vCenter=true&width=900&lines=building+AI+agents;learning+by+building;turning+ideas+into+software;exploring+machine+learning;curious+about+computational+biology" alt="Sadiee animated introduction">
+
+<br>
+
+`AI / ML` &nbsp;&nbsp; `AI AGENTS` &nbsp;&nbsp; `SOFTWARE` &nbsp;&nbsp; `COMPUTATIONAL BIOLOGY`
+
+</div>
+
+---
+
+## 01 / ABOUT
+
+I'm an Artificial Intelligence and Machine Learning undergraduate who enjoys turning ideas into working software.
+
+I learn by building, experimenting, breaking things, fixing them, and building again.
+
+My interests sit around the intersection of:
+
+```text
+ARTIFICIAL INTELLIGENCE
+        +
+SOFTWARE ENGINEERING
+        +
+COMPUTATIONAL BIOLOGY
