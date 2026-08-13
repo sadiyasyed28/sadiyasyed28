@@ -104,8 +104,7 @@ I'm an AI & Machine Learning undergraduate passionate about building software th
 
 ## 🐍 Contribution Snake
 
-> **After setting up the GitHub Action, this image will appear automatically.**
-
+> 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/sadiyasyed28/sadiyasyed28/output/github-contribution-grid-snake-dark.svg"/>
