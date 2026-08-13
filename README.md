@@ -163,6 +163,10 @@ The goal is to keep building until the things that once felt impossible become o
 
 https://www.linkedin.com/in/sadiya-syed-aa05b0337?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
+**Email**
+
+sadiyasyed35@gmail.com 
+
 ---
 
 <div align="center">
